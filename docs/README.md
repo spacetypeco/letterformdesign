@@ -5,6 +5,18 @@
 3. Install [node](https://nodejs.org/en/).
 3. Run `npm install pug -g`.
 
+## Running
+
+```
+bundle exec jekyll serve --baseurl ''
+```
+
+## Pushing changes
+
+```
+jekyll build -d docs
+```
+
 ## Directory Structure
 
 ```
