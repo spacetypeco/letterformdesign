@@ -1,4 +1,4 @@
 ---
 title: Home Page
-layout: items
+layout: projects
 ---
