@@ -1,6 +1,13 @@
 type-site
 =========
 
+## Quickstart
+
+1. Follow the instructions to [install Jekyll](https://jekyllrb.com/docs/installation/).
+2. Run `bundle install` to install this repository's dependencies.
+3. Install [node](https://nodejs.org/en/).
+3. Run `npm install pug -g`.
+
 ## Directory Structure
 
 ```
