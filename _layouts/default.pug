@@ -10,7 +10,7 @@ html
               h1
               | {{ page.title }}
               | {% if page.teaser  %}
-              img(src="{{ page.teaser }}")
+              img(src="{{ site.baseurl }}{{ page.teaser }}")
               | {% endif %}
               p
               | {{ content | markdownify }}
