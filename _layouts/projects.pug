@@ -10,7 +10,7 @@ html
               .grid-sizer
               | {% for project in site.projects %}
               .listing-item
-                a.listing-item__link(href="{{ site.baseurl }}{{ project.url }}")
+                a.listing-item__link(href="/{{ site.baseurl }}{{ project.url }}")
                   .listing-item__image
                     img(src="{{ project.teaser }}")
                   .listing-item__content.listing-item__content--bottom
