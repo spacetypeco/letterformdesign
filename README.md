@@ -1,6 +1,3 @@
-type-site
-=========
-
 ## Quickstart
 
 1. Follow the instructions to [install Jekyll](https://jekyllrb.com/docs/installation/).
