@@ -1,0 +1,16 @@
+doctype
+html
+    | {% include head %}
+    body.ajax-loading
+      | {% include header %}
+      .page
+        .page__content
+          section.intro
+            .wrap
+              h1
+              | {{ page.title }}
+              | {% if page.teaser  %}
+              img(src="{{ page.teaser }}")
+              | {% endif %}
+              p
+              | {{ content | markdownify }}

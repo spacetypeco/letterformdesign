@@ -1,0 +1,16 @@
+header.header
+  .wrap
+    a.header__title.cc-active.active-link(href='/')
+      | {{ page.title }}
+    .menu
+      .menu__toggle.js-menu-toggle
+        .menu__toggle__icon
+          span
+      .menu__wrap
+        ul.menu__list
+          li.menu__list__item
+            a.menu__list__item__link.cc-active.active-link(href='/') Projects
+          li.menu__list__item
+            a.menu__list__item__link(href='/about') About
+          li.menu__list__item
+            a.menu__list__item__link(href='/contact') Contact
