@@ -1,6 +1,6 @@
 header.header
   .wrap
-    a.header__title.cc-active.active-link(href='{{ site.baseurl }}')
+    a.header__title.cc-active.active-link(href='{{ site.baseurl }}/')
       | {{ page.title }}
     .menu
       .menu__toggle.js-menu-toggle
@@ -9,8 +9,8 @@ header.header
       .menu__wrap
         ul.menu__list
           li.menu__list__item
-            a.menu__list__item__link.cc-active.active-link(href='{{ site.baseurl }}') Projects
+            a.menu__list__item__link.cc-active.active-link(href='{{ site.baseurl }}/') Projects
           li.menu__list__item
-            a.menu__list__item__link(href='{{ site.baseurl }}about') About
+            a.menu__list__item__link(href='{{ site.baseurl }}/about') About
           li.menu__list__item
-            a.menu__list__item__link(href='{{ site.baseurl }}contact') Contact
+            a.menu__list__item__link(href='{{ site.baseurl }}/contact') Contact

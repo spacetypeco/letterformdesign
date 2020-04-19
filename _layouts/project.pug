@@ -1,0 +1,31 @@
+doctype
+html
+    | {% include head %}
+    body.ajax-loading
+      | {% include header %}
+      .page
+        .page__content
+          section.intro
+            .wrap
+              h1
+              | {{ page.title }}
+              | {% if page.teaser  %}
+              img(src="{{ site.baseurl }}{{ page.teaser }}")
+              | {% endif %}
+              p
+              | {{ content | markdownify }}
+          section.listing
+            .content-wrap.listing-wrap
+              .grid-sizer
+              | {% for project in site.projects %}
+              .listing-item
+                a.listing-item__link(href="{{ site.baseurl }}{{ project.url }}")
+                  .listing-item__image
+                    img(src="{{ site.baseurl }}{{ project.teaser }}")
+                  .listing-item__content.listing-item__content--bottom
+                    .listing-item__info
+                      h2.listing-item__title
+                      | {{ project.title }}
+                      p.lsiting-item__subtitle
+                      | {{ project.date }}
+              | {% endfor %}
