@@ -18,6 +18,7 @@ html
             .content-wrap.listing-wrap
               .grid-sizer
               | {% for project in site.projects %}
+              | {% if project.url != page.url %}
               .listing-item
                 a.listing-item__link(href="{{ site.baseurl }}{{ project.url }}")
                   .listing-item__image
@@ -28,4 +29,5 @@ html
                       | {{ project.title }}
                       p.lsiting-item__subtitle
                       | {{ project.date }}
+              | {% endif %}
               | {% endfor %}
