@@ -4,15 +4,8 @@ title: About
 permalink: /about
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This gallery website is managed by [Lynne Yun](https://lynneyun.com) for all her past students. I hope you will be inspired by their work, follow their progress on the socials, and even hire them for a project or two! 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I have a monthly newsletter that I send out with updates about upcoming talks, classes, current topics of research, and of course updates to this site. Sign up if you'd like to be in the loop.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+----

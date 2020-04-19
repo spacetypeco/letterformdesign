@@ -1,4 +1,4 @@
 ---
-title: Home Page
+title: Letterform Design
 layout: projects
 ---

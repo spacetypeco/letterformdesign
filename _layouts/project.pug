@@ -7,8 +7,6 @@ html
         .page__content
           section.intro
             .wrap
-              h1
-              | {{ page.title }}
               | {% if page.teaser  %}
               img(src="{{ site.baseurl }}{{ page.teaser }}")
               | {% endif %}
