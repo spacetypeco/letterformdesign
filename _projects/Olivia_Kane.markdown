@@ -8,7 +8,7 @@ Hand-Lettering Class of Spring 2020
 #### About Olivia ####
 I'm an NYC-based graphic designer and letterer. I specialize in design for events, packaging, publishing, and all things typographic!
 
-#### [Portfolio Website](https:/oliviakanedesign.com) ####
+#### [Portfolio Website](https://oliviakanedesign.com) ####
 #### [Follow on Instagram](https://www.instagram.com/o_a_kane/) ####
 <!--[Twitter](https://)-->
 ---
