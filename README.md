@@ -1,21 +1,33 @@
-## Quickstart
+# Quickstart
 
 1. Follow the instructions to [install Jekyll](https://jekyllrb.com/docs/installation/).
 2. Run `bundle install` to install this repository's dependencies.
 3. Install [node](https://nodejs.org/en/).
 3. Run `npm install pug -g`.
 
+(students: feel free to reach out if something doesn't work)
+
 ## Running
+
+After you have everything installed, in your terminal cd into the folder where the site is stored and run the following:
 
 ```
 bundle exec jekyll serve --baseurl ''
 ```
 
+This should give you the URL where the computer is running your site locally. View the site edits every time you refresh!
+
+Note: For context, all the gallery pages are made via markdown files in the `_projects` folder, and the images link to `assets/img`. If you're using this template as is, those are the only two directories you'd need to update/change.
+
 ## Pushing changes
+
+When you're done making changes, exit out of the active state in Terminal. Then (assuming your terminal is still pointing to the website directory), push the changes with this command:
 
 ```
 jekyll build -d docs
 ```
+
+# More Information 
 
 ## Directory Structure
 
