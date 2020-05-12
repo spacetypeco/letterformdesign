@@ -14,6 +14,9 @@ Parsons Type Design Class of Spring 2020
 
 ---
 #### Finch Typeface Project ####
+
+#### [The Online Specimen](http://calenchung.design/web-projects/finch)
+
 ![image1](/assets/img/Calen_Chung/1.png)
 
 ![image2](/assets/img/Calen_Chung/2.png)
@@ -23,6 +26,3 @@ Parsons Type Design Class of Spring 2020
 ![image4](/assets/img/Calen_Chung/4.png)
 
 ![image5](/assets/img/Calen_Chung/5.png)
-
-#### Project Description ####
-Online type specimen available at [http://calenchung.design/web-projects/finch](http://calenchung.design/web-projects/finch)!
