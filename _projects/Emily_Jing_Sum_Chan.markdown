@@ -7,7 +7,6 @@ class: type_design
 ## Emily Jing Sum Chan ##
 Parsons Type Design Class of Spring 2020
 
-#### [Portfolio Website](https://www.emilyjschan.com) ####
 #### [Follow on Instagram](https://www.instagram.com/lil.emili/)
 
 ---
