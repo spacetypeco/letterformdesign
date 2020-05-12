@@ -2,9 +2,10 @@
 layout: project
 title:  Arielle Shekel
 teaser: /assets/img/Arielle_Shekel/00.jpg
+class: lettering
 ---
 ## Arielle Shekel ##
-Hand-Lettering Class of Spring 2020
+Type@Cooper Hand-Lettering Class of Spring 2020
 #### About Arielle ####
 NYC born and Tel Aviv raised, I love thinking big and crafting beautiful products, brands, systems and letterforms. Currently Product Design Lead at Facebook New York. 
 

@@ -2,9 +2,10 @@
 layout: project
 title:  Olivia Kane
 teaser: /assets/img/Olivia_Kane/00.png
+class: lettering
 ---
 ## Olivia Kane ##
-Hand-Lettering Class of Spring 2020
+Type@Cooper Hand-Lettering Class of Spring 2020
 #### About Olivia ####
 I'm an NYC-based graphic designer and letterer. I specialize in design for events, packaging, publishing, and all things typographic!
 

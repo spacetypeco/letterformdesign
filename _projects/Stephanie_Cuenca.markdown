@@ -2,9 +2,10 @@
 layout: project
 title:  Stephanie Cuenca
 teaser: /assets/img/Stephanie_Cuenca/00.jpg
+class: lettering
 ---
 ## Stephanie Cuenca ##
-Hand-Lettering Class of Spring 2020
+Type@Cooper Hand-Lettering Class of Spring 2020
 #### About Stephanie ####
 Stephanie Cuenca is a Brooklyn native Art Director who loves lettering and all things graphic design. 
 

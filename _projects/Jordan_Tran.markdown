@@ -2,10 +2,11 @@
 layout: project
 title:  Jordan Tran
 teaser: /assets/img/Jordan_Tran/00.png
+class: lettering
 ---
 ## Jordan Tran ##
 
-Hand-Lettering Class of Spring 2020
+Type@Cooper Hand-Lettering Class of Spring 2020
 
 #### About Jordan ####
 Hi, I'm a graphic designer looking for something new and fun to learn every day! 

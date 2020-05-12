@@ -2,9 +2,10 @@
 layout: project
 title:  Xinran Peng
 teaser: /assets/img/Xinran_Peng/00.png
+class: lettering
 ---
 ## Xinran Peng ##
-Hand-Lettering Class of Spring 2020
+Type@Cooper Hand-Lettering Class of Spring 2020
 #### About Xinran ####
 Xinran Peng is a graphic designer graduating this summer from School of Visual Arts. Her works focus on graphic design, typography, as well as animation.
 

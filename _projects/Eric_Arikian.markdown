@@ -2,9 +2,10 @@
 layout: project
 title:  Eric Arikian
 teaser: /assets/img/Eric_Arikian/00.jpg
+class: lettering
 ---
 ## Eric Arikian #
-Hand-Lettering Class of Spring 2020
+Type@Cooper Hand-Lettering Class of Spring 2020
 <!-- Bio: -->
 #### [Portfolio Website](https://www.earikian.com) ###
 #### [Follow on Instagram](https://www.instagram.com/stun.gun.art/) ###

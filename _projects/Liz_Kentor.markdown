@@ -2,10 +2,11 @@
 layout: project
 title:  Liz Kentor
 teaser: /assets/img/Liz_Kentor/00.jpg
+class: lettering
 ---
 ## Liz Kentor ##
 
-Hand-Lettering Class of Spring 2020
+Type@Cooper Hand-Lettering Class of Spring 2020
 
 #### About Liz ####
 Liz Kentor is a NYC based Creative, specializing in Fashion & Technology. Liz's well rounded experience and versatility has allowed her to be a valuable asset to all functions within a business. 

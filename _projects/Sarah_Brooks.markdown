@@ -2,9 +2,10 @@
 layout: project
 title:  Sarah Brooks
 teaser: /assets/img/Sarah_Brooks/00.jpg
+class: lettering
 ---
 ## Sarah Brooks ##
-Hand-Lettering Class of Spring 2020
+Type@Cooper Hand-Lettering Class of Spring 2020
 #### About Sarah ####
 Service designer, design researcher and lettering enthusiast.
 
