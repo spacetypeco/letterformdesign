@@ -15,6 +15,18 @@ header.header
             a.menu__list__item__link(href='{{ site.baseurl }}/') Gallery
             | {% endif %}
           li.menu__list__item
+            | {% if page.name == 'lettering.md' %}
+            a.menu__list__item__link.cc-active.active-link(href='{{ site.baseurl }}/lettering') #Lettering
+            | {% else %}
+            a.menu__list__item__link.class-link(href='{{ site.baseurl }}/lettering') #Lettering
+            | {% endif %}
+          li.menu__list__item
+            | {% if page.name == 'type-design.md' %}
+            a.menu__list__item__link.cc-active.active-link(href='{{ site.baseurl }}/type-design') #TypeDesign
+            | {% else %}
+            a.menu__list__item__link.class-link(href='{{ site.baseurl }}/type-design') #TypeDesign
+            | {% endif %}
+          li.menu__list__item
             | {% if page.name == 'about.md' %}
             a.menu__list__item__link.cc-active.active-link(href='{{ site.baseurl }}/about') About
             | {% else %}

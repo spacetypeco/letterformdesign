@@ -5,4 +5,10 @@ html
       | {% include header %}
       .page
         .page__content
+          | {% if page.class %}
+          | {% assign projects = site.projects | where:'class', page.class %}
+          | {% else %}
+          | {% assign projects = site.projects %}
+          | {% endif %}
+
           | {% include project_grid %}

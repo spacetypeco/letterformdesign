@@ -12,4 +12,5 @@ html
               | {% endif %}
               p
               | {{ content | markdownify }}
+          | {% assign projects = site.projects %}
           | {% include project_grid %}
