@@ -11,7 +11,7 @@ Parsons Type Design Class of Spring 2020
 Mi Chen is a graphic designer, filmmaker and tattooist based in New York. Currently enrolled in Parsons School of Design for BFA program for Communication Design and Film Production.
 
 #### [Portfolio Website](https://michen.art/) ####
-#### [Follow on Instagram](https://www.instagram.com/stella.cosmos/)
+#### [Follow on Instagram](https://www.instagram.com/cmxixixix/)
 
 ---
 #### Aperture Display Typeface Project ####
