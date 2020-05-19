@@ -5,3 +5,4 @@ _site
 vendor
 .pug-cache
 **/.#*
+.DS_Store
