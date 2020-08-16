@@ -10,4 +10,4 @@ I have a monthly newsletter that I send out with updates about upcoming talks, c
 
 ----
 
-This page is part of a series of galleries. See [Generative Typography](http://generativetype.com/) for more student work!
+This page is part of a series of galleries. See [Generative Typography](https://generativetype.com/) for more student work!
